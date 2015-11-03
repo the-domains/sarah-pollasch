@@ -1,0 +1,23 @@
+name: Sarah Pollasch
+favicon: null
+layout_spectrum: 0.978575985878706
+typography_spectrum: 0.4500763139221817
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8627100533340126
+  lightness: 0.8214209580328315
+  saturation: 0.7876397389918566
+  rhythmicContrast: 0.6692644394934177
+purpose: []
