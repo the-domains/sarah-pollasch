@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Sarah Pollasch]]></title>
+        <description><![CDATA[Sarah Pollasch]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 05 Dec 2015 08:49:05 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Illustration & Lettering]]></title>
+            <description><![CDATA[<article><h1>Illustration & Lettering</h1><p>Illustrated map for The Heavy Table's The Secret Atlas of North Coast Food</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d25df564985ff05f428050bac85054befd3658f3.png"></article>]]></description>
+            <link>undefinedillustration-and-lettering/index.html</link>
+            <guid isPermaLink="false">574f17d2-cfe4-47ba-9399-4975da6765db</guid>
+            <pubDate>Sat, 05 Dec 2015 08:48:57 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
