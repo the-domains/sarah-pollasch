@@ -1,7 +1,7 @@
 name: Sarah Pollasch
 favicon: null
-layout_spectrum: 0.978575985878706
-typography_spectrum: 0.4500763139221817
+layout_spectrum: 0.75198
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -16,8 +16,8 @@ opengraph:
   appId: null
 color:
   brandColors: []
-  brandStrength: 0.8627100533340126
+  brandStrength: 0
   lightness: 0.8214209580328315
-  saturation: 0.7876397389918566
-  rhythmicContrast: 0.6692644394934177
+  saturation: 0.5
+  rhythmicContrast: 0
 purpose: []
